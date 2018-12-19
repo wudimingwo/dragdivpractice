@@ -1,0 +1,23 @@
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: #FF0000;
+  text-align: center;
+  line-height: 100px;
+  list-style: none; }
+
+.wrapper {
+  width: 400px;
+  height: auto;
+  background-color: blue;
+  text-align: center;
+  min-height: 400px;
+  position: absolute;
+  right: 100px;
+  top: 300px;
+  color: white;
+  font-size: 32px; }
+  .wrapper .item {
+    float: left; }
+
+/*# sourceMappingURL=demo.css.map */
